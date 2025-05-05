@@ -1,7 +1,7 @@
 Authors and Editors:
-Yusuf Abdelrahman
-Evan Michel
-Isabella Tabrizi
+- Yusuf Abdelrahman
+- Evan Michel
+- Isabella Tabrizi
 
 Climate change and global warming are becoming increasingly relevant issues all over the world. California is no exception. This paper investigates how carbon dioxide emissions are affecting California’s climate. To narrow things down we are focusing our research on three distinct locations in California: Eureka, San Francisco, and San Diego. These locations were chosen because they are key to California's economy and represent the state's diverse climate regions and unique climate risks. We face problems with increasingly hot summers, heat waves, droughts, and wildfires.This study examines one of the main contributors to climate change: carbon dioxide emissions. The data will reveal how the change in emissions correlates to a rise in temperature and change in precipitation.
 
