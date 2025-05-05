@@ -10,7 +10,7 @@ Analysis of Climate Data (Temperatures, Precipitaion) In three location:
 
 Analysis of carbon dioxide emissions trend in California
 
-Jupyter notebook file and necessary data files included
+Jupyter notebook file, necessary data files, and final report PDF included
 
 Sources:
 
